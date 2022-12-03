@@ -6,7 +6,7 @@ public class BankAccount {
     private int accNo;
     private String name;
     private float bal;
-
+    
     public BankAccount() {
         System.out.println("BankAccount()");
         accNo = 100;
